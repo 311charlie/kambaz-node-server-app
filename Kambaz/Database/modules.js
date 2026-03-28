@@ -1,0 +1,15 @@
+export default [
+  { _id: "M101", name: "Propulsion Introduction", description: "Basic principles of propulsion.", course: "RS101", lessons: [{ _id: "L101", name: "History of Rocketry", description: "A brief history.", module: "M101" }, { _id: "L102", name: "Rocket Equation", description: "Understanding the Tsiolkovsky equation.", module: "M101" }] },
+  { _id: "M102", name: "Fuel and Combustion", description: "Understanding fuels.", course: "RS101", lessons: [{ _id: "L201", name: "Fuel Types", description: "Types of fuels.", module: "M102" }, { _id: "L202", name: "Combustion Processes", description: "How combustion works.", module: "M102" }] },
+  { _id: "M103", name: "Nozzle Design", description: "Nozzle design principles.", course: "RS101", lessons: [{ _id: "L301", name: "Nozzle Types", description: "Various nozzle designs.", module: "M103" }] },
+  { _id: "M201", name: "Fundamentals of Aerodynamics", description: "Basic aerodynamic concepts.", course: "RS102", lessons: [{ _id: "L401", name: "Lift and Drag", description: "Understanding lift and drag.", module: "M201" }, { _id: "L402", name: "Airfoil Design", description: "Principles of airfoil design.", module: "M201" }] },
+  { _id: "M202", name: "Subsonic and Supersonic Flow", description: "Flow regimes.", course: "RS102", lessons: [{ _id: "L501", name: "Subsonic Flow", description: "Subsonic aerodynamics.", module: "M202" }] },
+  { _id: "M203", name: "Aerodynamic Heating", description: "Thermal effects.", course: "RS102", lessons: [{ _id: "L601", name: "Heat Transfer", description: "Heat transfer in flight.", module: "M203" }] },
+  { _id: "M301", name: "Spacecraft Structures", description: "Structural design.", course: "RS103", lessons: [{ _id: "L701", name: "Materials", description: "Spacecraft materials.", module: "M301" }] },
+  { _id: "M302", name: "Orbital Mechanics", description: "Orbit principles.", course: "RS103", lessons: [{ _id: "L801", name: "Kepler's Laws", description: "Laws of orbital motion.", module: "M302" }] },
+  { _id: "M303", name: "Spacecraft Systems", description: "System engineering.", course: "RS103", lessons: [{ _id: "L901", name: "Power Systems", description: "Spacecraft power.", module: "M303" }] },
+  { _id: "M401", name: "Organic Compounds", description: "Introduction to organic compounds.", course: "RS104", lessons: [{ _id: "L1001", name: "Hydrocarbons", description: "Study of hydrocarbons.", module: "M401" }] },
+  { _id: "M501", name: "Coordination Chemistry", description: "Coordination compounds.", course: "RS105", lessons: [{ _id: "L1101", name: "Crystal Field Theory", description: "Crystal field theory basics.", module: "M501" }] },
+  { _id: "M601", name: "Thermodynamics", description: "Chemical thermodynamics.", course: "RS106", lessons: [{ _id: "L1201", name: "Laws of Thermodynamics", description: "The three laws.", module: "M601" }] },
+  { _id: "M701", name: "Ancient Greek", description: "Introduction to Ancient Greek.", course: "RS107", lessons: [{ _id: "L1301", name: "Greek Alphabet", description: "Learning the alphabet.", module: "M701" }] }
+];

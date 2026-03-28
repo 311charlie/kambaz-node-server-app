@@ -1,0 +1,10 @@
+export default [
+  { _id: "123", username: "iron_man", password: "stark123", firstName: "Tony", lastName: "Stark", email: "tony@stark.com", dob: "1972-05-29", role: "FACULTY", loginId: "001234561S", section: "S101", lastActivity: "2020-10-01", totalActivity: "10:21:32" },
+  { _id: "234", username: "dark_knight", password: "wayne123", firstName: "Bruce", lastName: "Wayne", email: "bruce@wayne.com", dob: "1975-03-30", role: "STUDENT", loginId: "001234562S", section: "S101", lastActivity: "2020-10-02", totalActivity: "15:32:43" },
+  { _id: "345", username: "cap_america", password: "rogers123", firstName: "Steve", lastName: "Rogers", email: "steve@avengers.com", dob: "1918-07-04", role: "STUDENT", loginId: "001234563S", section: "S102", lastActivity: "2020-10-03", totalActivity: "08:45:12" },
+  { _id: "456", username: "black_widow", password: "romanoff123", firstName: "Natasha", lastName: "Romanoff", email: "natasha@avengers.com", dob: "1984-12-03", role: "TA", loginId: "001234564S", section: "S102", lastActivity: "2020-10-04", totalActivity: "22:10:28" },
+  { _id: "567", username: "thor_odinson", password: "thor123", firstName: "Thor", lastName: "Odinson", email: "thor@asgard.com", dob: "0964-01-01", role: "STUDENT", loginId: "001234565S", section: "S101", lastActivity: "2020-10-05", totalActivity: "05:15:45" },
+  { _id: "678", username: "hawk_eye", password: "barton123", firstName: "Clint", lastName: "Barton", email: "clint@shield.com", dob: "1975-06-18", role: "STUDENT", loginId: "001234566S", section: "S103", lastActivity: "2020-10-06", totalActivity: "12:30:20" },
+  { _id: "789", username: "hulk_smash", password: "banner123", firstName: "Bruce", lastName: "Banner", email: "bruce@gamma.com", dob: "1969-12-18", role: "STUDENT", loginId: "001234567S", section: "S101", lastActivity: "2020-10-07", totalActivity: "18:22:10" },
+  { _id: "890", username: "scarlet_witch", password: "wanda123", firstName: "Wanda", lastName: "Maximoff", email: "wanda@avengers.com", dob: "1989-02-10", role: "STUDENT", loginId: "001234568S", section: "S102", lastActivity: "2020-10-08", totalActivity: "09:45:33" }
+];
